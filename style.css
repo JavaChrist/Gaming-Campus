@@ -84,10 +84,10 @@ nav li:last-child::before {
 }
 
 .main-header {
-     background: url(/assets/images/bg.jpg) fixed center/cover;   
+        background: url(/assets/images/bg.jpg) fixed center/cover;   
      /* center:cover  pour mettre une image bien centrer. Fixed pour avoir une image fixe */
-     color: white;
-     padding: 60px;
+        color: white;
+        padding: 60px;
 }
 h1 {
     text-transform: uppercase;
